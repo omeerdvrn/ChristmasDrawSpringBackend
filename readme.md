@@ -10,7 +10,7 @@ Spring Boot version of the Christmas Draw App API.
 **Spring Boot** 
 
   
-## Post Structure
+## Participant Structure
 
 ```json
 {
